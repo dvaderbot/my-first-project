@@ -1,0 +1,18 @@
+# PowerShell
+*.log
+
+# Configuration containing local/environment-specific settings
+Configuration/local*
+
+# Secrets
+*.secret
+*.secrets
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
